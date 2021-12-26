@@ -18,6 +18,7 @@
         <module>ihrm_attendance</module>
         <module>ihrm_salarys</module>
         <module>ihrm_audit</module>
+        <module>ihrm_employee</module>
     </modules>
 
     <packaging>pom</packaging>
